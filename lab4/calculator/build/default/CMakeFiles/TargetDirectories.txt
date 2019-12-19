@@ -1,0 +1,4 @@
+/home/kurinskij/Documents/AKLAB/AK_labs/lab4/calculator/build/default/CMakeFiles/rebuild_cache.dir
+/home/kurinskij/Documents/AKLAB/AK_labs/lab4/calculator/build/default/CMakeFiles/edit_cache.dir
+/home/kurinskij/Documents/AKLAB/AK_labs/lab4/calculator/build/default/CMakeFiles/calculator.dir
+/home/kurinskij/Documents/AKLAB/AK_labs/lab4/calculator/build/default/CMakeFiles/cpp_demo.dir
